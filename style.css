@@ -7,6 +7,14 @@ button{
     color: #73AD21;
 }
 
+
+.images-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+}
+
 #headz{
     background-color: darkslategrey;
     color:lightslategray;
