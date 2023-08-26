@@ -1,0 +1,15 @@
+body{
+    font-family: 'COCOGOOSE', sans-serif;
+     background-color: lightslategray;                                           
+}
+
+button{
+    color: #73AD21;
+}
+
+#headz{
+    background-color: darkslategrey;
+    color:lightslategray;
+    border-radius: 25px;
+    margin-top: 1%;
+}
