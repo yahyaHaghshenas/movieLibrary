@@ -46,6 +46,15 @@ body{
     /* margin-top: 1%; */
 }
 
+#warning{
+    background-color: rgba(128, 0, 0, 0.7);
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    color: rgb(209, 196, 179);
+}
+
 #search{
     background-color: darkslateblue;
     border: none;
