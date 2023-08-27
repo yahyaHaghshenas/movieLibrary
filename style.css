@@ -28,9 +28,20 @@ body{
     color: darkslategray;
 }
 
+.grid-image{
+    transition: transform 0.2s ease-in-out;
+}
+
+.grid-image:hover {
+    transform: scale(1.15);
+}
+
 #headz{
     background-color: darkslategrey;
     color:lightslategray;
+    padding: 2%;
+    display: flex;
+    justify-content: center;
     /* border-radius: 25px; */
     /* margin-top: 1%; */
 }
