@@ -4,6 +4,7 @@ body{
 }
 
 
+
 .images-container{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -29,12 +30,15 @@ body{
 }
 
 .grid-image{
+    border-radius: 10px;
     transition: transform 0.2s ease-in-out;
 }
 
 .grid-image:hover {
-    transform: scale(1.15);
+    transform: scale(1.05);
 }
+
+
 
 #headz{
     background-color: darkslategrey;
